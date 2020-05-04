@@ -3,7 +3,7 @@
 {"number":"0","name":"Mosaique FM","description":"","logo":"/r01.png","streamUrl":"http:///radio.mosaiquefm.net:8000/mosalive","yourmuzeId":"0","state":"1"},
 {"number":"1","name":"Radio Jawhara","description":"","logo":"/r02.png","streamUrl":"http://streaming2.toutech.net:8000/jawharafm","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"IFM 100.6","description":"","logo":"/r03.png","streamUrl":"https://live.ifm.tn/radio/8000/ifmlive?1585267848","yourmuzeId":"0","state":"1"},
-{"number":"3","name":"Cap Radio FM","description":"","logo":"/r04.png","streamUrl":"https://stream.beta-systemes.com:8443/capfm","yourmuzeId":"0","state":"1"},
+{"number":"3","name":"Cap Radio FM","description":"","logo":"/r04.png","streamUrl":"https://stream.beta-systemes.com:8443/capfm?ver=569492","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"Express FM","description":"","logo":"/r05.png","streamUrl":"http://expressfm.ice.infomaniak.ch/expressfm-64.mp3","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"OXYGENE FM","description":"","logo":"/r07.png","streamUrl":"http://5.196.112.114:8006/stream","yourmuzeId":"0","state":"1"},
