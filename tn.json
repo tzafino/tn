@@ -8,7 +8,7 @@
 {"number":"5","name":"MFM Tunisie","description":"","logo":"/r06.png","streamUrl":"http://92.222.225.69:9300","yourmuzeId":"0","state":"2"},
 {"number":"6","name":"Oxygene FM Bizerte","description":"","logo":"/r07.png","streamUrl":"http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3?1588464940297","yourmuzeId":"0","state":"1"},
 {"number":"7","name":"Radio Tunis Nationale","description":"","logo":"/r08.png","streamUrl":"http://streaming.radionomy.com/radio-Hawana","yourmuzeId":"0","state":"1"},
-{"number":"8","name":"Radio Oasis Fm","description":"","logo":"/r09.png","streamUrl":"http://stream6.tanitweb.com/oasis?1393527663318.mp3","yourmuzeId":"0","state":"2"},
+{"number":"8","name":"Radio Oasis Fm","description":"","logo":"/r09.png","streamUrl":"http://s1.viastreaming.net:7120/;","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"Babnet Tunisie","description":"","logo":"/r10.jpg","streamUrl":"http://51.83.16.212:8080/stream/1/?1588466518783","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"Shems FM","description":"","logo":"/r11.png","streamUrl":"http://stream6.tanitweb.com/shems","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"Radio RFCA","description":"","logo":"/r12.jpg","streamUrl":"http://37.59.47.192:8456","yourmuzeId":"102615","state":"1"},
@@ -62,6 +62,18 @@
 {"number":"58","name":"Luci FM","description":"","logo":"/Luci FM.jpg","streamUrl":"http://node-23.zeno.fm/rq84wg9s7neuv?rj-ttl=4&rj-tok=AAABceHsAnMAQtBc8rzhG3rYGw","yourmuzeId":"0","state":"1"},
 {"number":"59","name":"Radio Tikati Box Music- إذاعة تيكاتي بوكس ميوزك","description":"","logo":"/Radio Tikati Box Music- إذاعة تيكاتي بوكس ميوزك.jpg","streamUrl":"http://listen.radioking.com/radio/85714/stream/124003","yourmuzeId":"0","state":"1"},
 {"number":"60","name":"Radio Tunisie 360","description":"","logo":"/Radio Tunisie 360.jpg","streamUrl":"https://listen.radioking.com/radio/1743/stream/125","yourmuzeId":"0","state":"1"},
+{"number":"61","name":"Hashtag FM","description":"","logo":"/Hashtag FM.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},
+{"number":"62","name":"Arabica FM","description":"","logo":"/Arabica FM.png","streamUrl":"https://streamingv2.shoutcast.com/Arabica?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3","yourmuzeId":"0","state":"1"},
+{"number":"63","name":"7ell El Radyoun","description":"","logo":"/7ell El Radyoun.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3","yourmuzeId":"0","state":"1"},
+{"number":"64","name":"Electronic House Radio","description":"","logo":"/Electronic House Radio.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3","yourmuzeId":"0","state":"1"},
+{"number":"65","name":"Radio Nabeul","description":"","logo":"/Radio Nabeul.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},
+{"number":"66","name":"Sunset Radio Tunisie","description":"","logo":"/Sunset Radio Tunisie.png","streamUrl":"http://138.201.206.240:8425/;","yourmuzeId":"0","state":"1"},
+{"number":"67","name":"Radio Tunisie 24","description":"","logo":"/Radio Tunisie 24.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3","yourmuzeId":"0","state":"1"},
+{"number":"68","name":"Radyoon FM","description":"","logo":"/Radyoon FM.png","streamUrl":"https://stream3.mixcloud.com/secure/c/m4a/64/0/0/f/2/20d7-928d-4be8-b7ba-a0fc2c13164c.m4a?sig=wNri8OjNWPaorXqdPkrQ9A","yourmuzeId":"0","state":"1"},
+{"number":"69","name":"Radio Bouchra ","description":"","logo":"/Radio Bouchra .png","streamUrl":"http://play.radiobouchra.com:8000/128.mp3","yourmuzeId":"0","state":"1"},
+{"number":"70","name":"Radio Forum readers of the Koran ","description":"","logo":"/Radio Forum readers of the Koran .png","streamUrl":"http://live.mp3quran.net:9846/;","yourmuzeId":"0","state":"1"},
+{"number":"71","name":"Diwan FM","description":"","logo":"/Diwan FM.png","streamUrl":"https://stream6.tanitweb.com/diwanfm","yourmuzeId":"0","state":"1"},
+{"number":"72","name":"Diwan FM","description":"","logo":"/Diwan FM.png","streamUrl":"https://stream6.tanitweb.com/diwanfm","yourmuzeId":"0","state":"1"},
 
 
   
