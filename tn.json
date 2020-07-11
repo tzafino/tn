@@ -109,7 +109,7 @@
 {"number":"108","name":"Skyrock","description":"","logo":"/Skyrock.png","streamUrl":"https://icecast.skyrock.net/s/natio_aac_64k","yourmuzeId":"0","state":"1"},    
 {"number":"109","name":"Radio Nova","description":"","logo":"/Radio Nova.jpg","streamUrl":"https://novazz.ice.infomaniak.ch/novazz-128.mp3","yourmuzeId":"0","state":"1"},    
 {"number":"110","name":"RFI Monde","description":"","logo":"/RFI Monde.png","streamUrl":"https://live-reflector.ice.infomaniak.ch/rfimonde-64.mp3","yourmuzeId":"0","state":"1"},    
-{"number":"111","name":"Rfm","description":"","logo":"/Rfm.jpg","streamUrl":"https://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8","yourmuzeId":"0","state":"1"},    
+{"number":"111","name":"Rfm","description":"","logo":"/Rfm.jpg","streamUrl":"https://stream.rfm.fr/rfm.mp3","yourmuzeId":"0","state":"1"},    
 {"number":"112","name":"Virgin Radio","description":"","logo":"/Virgin Radio.jpg","streamUrl":"https://ais-live.cloud-services.paris:8443/virgin.aac","yourmuzeId":"0","state":"1"},    
 {"number":"113","name":"Rire et Chansons","description":"","logo":"/Rire et Chansons.jpg","streamUrl":"http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=radiobox","yourmuzeId":"0","state":"1"},    
 {"number":"114","name":"Cherie FM","description":"","logo":"/Cherie FM.png","streamUrl":"http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=radiobox","yourmuzeId":"0","state":"1"},    
